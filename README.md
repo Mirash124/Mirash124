@@ -1,5 +1,15 @@
-### Hi there 👋
+### Oh, we've got a visitor!
+Good day friend, happy to meet a creature of similar interest!
 
+My name is Ralif, I am an enthusiastic programmer pursuing a Computer Science degree at City University of Hong Kong.
+
+Previously been an intern at Beeline and eWalker, currently open for opportunities in Software Engineering and related. Former competitive programmer, you can view my profile at https://codeforces.com/profile/l_Love_KFC.
+
+My favourites are C++ and Java, also built a couple of things with Python.
+
+These are my humble projects and contributions to an open source, please feel free to access.
+
+Hope to see you again!
 <!--
 **Mirash124/Mirash124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
